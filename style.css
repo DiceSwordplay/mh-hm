@@ -1,8 +1,5 @@
 body{
-    background-image: url("../graphics/20231030_173335.jpg");
-    background-size: cover;   
-    
-    height: 100vh;
-    padding:0;
-    margin:0;
+  background-image: url('../graphics/20231030_173335.jpg');
+  background-position: center;
+  background-size: cover;
 }
