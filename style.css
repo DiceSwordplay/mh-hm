@@ -1,5 +1,10 @@
 body{
-  background: src= "graphics/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif";
-  background-position: center;
-  background-size: cover;
+    background-image: url('graphics/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif');
+    background-size: cover;
+
+
+
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
